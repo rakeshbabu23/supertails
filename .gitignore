@@ -1,6 +1,7 @@
 # OSX
 #
 .DS_Store
+.env
 
 # Xcode
 #
@@ -34,6 +35,8 @@ local.properties
 *.keystore
 !debug.keystore
 .kotlin/
+android/gradle.properties
+
 
 # node.js
 #
