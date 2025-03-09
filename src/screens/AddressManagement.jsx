@@ -18,7 +18,7 @@ import {
   getAddresses,
   deleteAddress,
   setDefaultAddress,
-} from '../services/enhancedAddressService';
+} from '../services/addressService';
 import {useLocation} from '../context/LocationContext';
 import Header from '../components/ui/Header';
 
